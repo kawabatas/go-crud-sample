@@ -3,7 +3,6 @@ package model
 import (
     "database/sql"
     "log"
-    "os"
 
     // mysql driver
     _ "github.com/go-sql-driver/mysql"
