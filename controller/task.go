@@ -1,7 +1,6 @@
 package controller
 
 import (
-    "database/sql"
     "fmt"
     "net/http"
     "time"
